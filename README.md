@@ -7,9 +7,9 @@ _world_
 #### This
 ##### is
 ###### Pragati
-Kumar
-Singh
-IIT
-Kanpur
+* Kumar
+* Singh
+* IIT
+- Kanpur
 Hall
 2
